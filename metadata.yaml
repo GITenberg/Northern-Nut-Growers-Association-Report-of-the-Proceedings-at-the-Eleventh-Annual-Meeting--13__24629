@@ -1,0 +1,29 @@
+_repo: Northern-Nut-Growers-Association-Report-of-the-Proceedings-at-the-Eleventh-Annual-Meeting--13__24629
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Northern Nut Growers Association
+    alias: Association, Northern Nut Growers
+    gutenberg_agent_id: '9596'
+    url: http://www.gutenberg.org/2009/agents/9596
+description: ''
+gutenberg_bookshelf: Northern Nut Growers Association
+gutenberg_issued: '2008-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nut trees -- Periodicals'
+- !lcsh 'Nuts -- Periodicals'
+- !lcc 'SB'
+- !lcsh 'Northern Nut Growers Association -- Periodicals'
+title: "Northern Nut Growers Association Report of the Proceedings at the Eleventh\
+  \ Annual Meeting\r\nWashington, D. C. October 7 and 8, 1920"
+url: http://www.gutenberg.org/ebooks/24629
